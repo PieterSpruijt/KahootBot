@@ -1,2 +1,2 @@
 # KahootBot
-A cool kahoot bot for your priva kahoots
+A cool kahoot bot for your private kahoots
